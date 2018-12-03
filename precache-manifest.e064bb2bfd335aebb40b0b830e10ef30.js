@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "fa2772327f55d8198301fdb8bcfc8158",
-    "url": "/my-weather-app/static/media/glyphicons-halflings-regular.fa277232.woff"
+    "revision": "448c34a56d699c29117adc64c43affeb",
+    "url": "/my-weather-app/static/media/glyphicons-halflings-regular.448c34a5.woff2"
   },
   {
-    "revision": "f081be646bb56936ee0f",
+    "revision": "f506be317fbc561edaf6",
     "url": "/my-weather-app/static/css/main.259fb160.chunk.css"
   },
   {
@@ -24,12 +24,12 @@ self.__precacheManifest = [
     "url": "/my-weather-app/static/media/glyphicons-halflings-regular.f4769f9b.eot"
   },
   {
-    "revision": "f081be646bb56936ee0f",
-    "url": "/my-weather-app/static/js/main.f081be64.chunk.js"
+    "revision": "f506be317fbc561edaf6",
+    "url": "/my-weather-app/static/js/main.f506be31.chunk.js"
   },
   {
-    "revision": "448c34a56d699c29117adc64c43affeb",
-    "url": "/my-weather-app/static/media/glyphicons-halflings-regular.448c34a5.woff2"
+    "revision": "fa2772327f55d8198301fdb8bcfc8158",
+    "url": "/my-weather-app/static/media/glyphicons-halflings-regular.fa277232.woff"
   },
   {
     "revision": "e18bbf611f2a2e43afc071aa2f4e1512",
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/my-weather-app/static/css/1.e451d444.chunk.css"
   },
   {
-    "revision": "4126992b54eea803d5939b5066faf1e1",
+    "revision": "ac9e7ad73d90b6bf43330c63b6e69063",
     "url": "/my-weather-app/index.html"
   }
 ];
