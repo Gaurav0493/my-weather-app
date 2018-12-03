@@ -7,11 +7,11 @@
   "static/js/1.f8fd7f9e.chunk.js.map": "/my-weather-app/static/js/1.f8fd7f9e.chunk.js.map",
   "runtime~main.js": "/my-weather-app/static/js/runtime~main.3a137009.js",
   "runtime~main.js.map": "/my-weather-app/static/js/runtime~main.3a137009.js.map",
-  "static/media/bootstrap.min.css": "/my-weather-app/static/media/glyphicons-halflings-regular.f4769f9b.eot",
+  "static/media/bootstrap.min.css": "/my-weather-app/static/media/glyphicons-halflings-regular.fa277232.woff",
   "static/media/App.css": "/my-weather-app/static/media/orange_sky.46199668.jpg",
   "static/css/main.259fb160.chunk.css.map": "/my-weather-app/static/css/main.259fb160.chunk.css.map",
   "static/css/1.e451d444.chunk.css.map": "/my-weather-app/static/css/1.e451d444.chunk.css.map",
   "index.html": "/my-weather-app/index.html",
-  "precache-manifest.58345db9c0a681da4e8c34ef2ff79483.js": "/my-weather-app/precache-manifest.58345db9c0a681da4e8c34ef2ff79483.js",
+  "precache-manifest.eb46175d1f1cc71f1b026ee4bf680e4b.js": "/my-weather-app/precache-manifest.eb46175d1f1cc71f1b026ee4bf680e4b.js",
   "service-worker.js": "/my-weather-app/service-worker.js"
 }
