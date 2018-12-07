@@ -55,7 +55,6 @@ class App extends React.Component {
   }
   render() {
     return (
-      <Flexbox>
       <div>
         <div className="wrapper">
           <div className="main">
@@ -80,7 +79,6 @@ class App extends React.Component {
           </div>
         </div>
       </div>
-      </Flexbox>
     );
   }
 };
