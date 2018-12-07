@@ -3,6 +3,7 @@ import React from "react";
 import Titles from "./components/Titles";
 import Form from "./components/Form";
 import Weather from "./components/Weather";
+import Flexbox from 'flexbox-react';
 
 const API_KEY = "6284c467c9da284a4433decb33fb7ba4";
 
@@ -54,6 +55,7 @@ class App extends React.Component {
   }
   render() {
     return (
+      <Flexbox>
       <div>
         <div className="wrapper">
           <div className="main">
@@ -78,6 +80,7 @@ class App extends React.Component {
           </div>
         </div>
       </div>
+      </Flexbox>
     );
   }
 };
